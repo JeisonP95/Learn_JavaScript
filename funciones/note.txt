@@ -1,0 +1,7 @@
+Funciones!!
+una caja -> esta caja recibe datos (parametros)
+realiza una funcionalidad como tal
+las funciones ayudan a reutilizar codigo
+
+
+//do-while, while, for y switch

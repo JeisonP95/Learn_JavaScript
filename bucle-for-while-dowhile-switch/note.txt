@@ -1,0 +1,34 @@
+-------------------------------------------------------FOR----------------------------------------------------------------------------------------
+### Ejercicio 1: Suma de Números
+Escribe un programa que solicite al usuario un número entero positivo \( n \) y luego calcule y muestre la suma de todos los números enteros desde 1 hasta \( n \).
+
+### Ejercicio 2: Números Pares
+Escribe un programa que pida al usuario un número entero positivo \( n \) y luego muestre todos los números pares desde 1 hasta \( n \).
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------while---------------------------------------------------------------------------
+### Ejercicio 3: Suma de Números con While
+Escribe un programa que solicite al usuario un número entero positivo \( n \) y luego calcule y muestre la suma de todos los números enteros desde 1 hasta \( n \) utilizando un bucle `while`.
+
+### Ejercicio 4: Números Pares con While
+Escribe un programa que pida al usuario un número entero positivo \( n \) y luego muestre todos los números pares desde 1 hasta \( n \) utilizando un bucle `while`.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------do-while-----------------------------------------------------------------------------
+### Ejercicio 5: Conteo Regresivo con Do-While
+Escribe un programa que solicite al usuario un número entero positivo \( n \) y luego muestre un conteo regresivo desde \( n \) hasta 1 utilizando un bucle `do-while`.
+
+### Ejercicio 6: Validación de Entrada con Do-While
+Escribe un programa que solicite al usuario que ingrese una contraseña, y continúe solicitando la contraseña hasta que ingrese la contraseña correcta. Utiliza un bucle `do-while` para este propósito.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------switch--------------------------------------------------------------------------
+### Ejercicio 7: Día de la Semana
+Escribe un programa que solicite al usuario un número del 1 al 7, que represente un día de la semana, y luego muestre el nombre del día correspondiente utilizando la estructura `switch`.
+
+### Ejercicio 8: Calificación
+Escribe un programa que solicite al usuario una calificación numérica del 0 al 100 y luego muestre la calificación equivalente utilizando la escala de letras (A, B, C, D, F) utilizando la estructura `switch`.
+-------------------------------------------------------------------------------------------------------------------------------------------------

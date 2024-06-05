@@ -1,0 +1,29 @@
+Contenido
+ * condicionales
+ * operadores por tamaño > o <
+ * operadores igualitarios y de diferencia == o === y != o !==
+ * operadores logicos || y &&
+
+let -> datos medianos
+var -> datos grandes
+const -> datos que nunca cambian
+
+imprimir -> metodos del lenguaje
+console.log()
+alert()
+
+-------------Ejercicios---------------------
+1. pedir a una persona que ingrese su edad, 
+   crear una variable la cual tenga una edad definida
+   en base a esta edad mirar si la edad ingresada es mayor o menor
+
+2. crear un nuevo proyecto llamado precios_de_productos
+   pedir al usuario que ingrese 2 precios de 2 productos
+   evaluar si son exactamente iguales o exactamente diferentes
+
+3. crear un proyecto llamado edad_dos_personas
+   pedir a 2 usuarios que ingresen su edad
+   si alguno de los dos es mayor a 18 va a mostar un hay 1 mayor de edad
+
+   luego crear un condicional el cual va mirar si los dos son mayores de edad, 
+   si son exactamente mayores de edad van a dejarlos entrar, lo contrario no los dejaran
